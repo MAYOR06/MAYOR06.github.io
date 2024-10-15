@@ -45,7 +45,7 @@ education:
   - area: Higher Secondary Education
     institution: Oxford English School
     date_start: ''
-    date_end: "2021-06-31"
+    date_end: "2021-06-30"
     summary: |
       Attained CGPA 8.4 in 12th and 9 in 10th
 work:
