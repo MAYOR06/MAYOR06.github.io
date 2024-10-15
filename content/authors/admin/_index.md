@@ -104,5 +104,5 @@ awards:
     awarder: NPTEL
 ---
 
-Highly motivated and outcome-driven professional adept in leading software development initiatives centered around Artificial Intelligence (AI), I bring a contagious enthusiasm to every project, infusing teams with positivity and a can-do attitude.
+Highly motivated and outcome-driven professional adept in leading software development initiatives centered around Artificial Intelligence (AI), I bring a contagious enthusiasm to every project, infusing teams with positivity and a can-do attitude
 
