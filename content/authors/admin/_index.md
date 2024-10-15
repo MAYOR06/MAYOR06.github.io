@@ -38,14 +38,14 @@ profiles:
 education:
   - area: BTech Artificial Intelligence
     institution: RSET
-    date_start: 2021-07-01
-    date_end: 2025-08-31
+    date_start: "2021-07-01"
+    date_end: "2025-08-31"
     summary: |
       GPA: 8.05
   - area: Higher Secondary Education
     institution: Oxford English School
     date_start: ''
-    date_end: 2021-06-31
+    date_end: "2021-06-31"
     summary: |
       Attained CGPA 8.4 in 12th and 9 in 10th
 work:
