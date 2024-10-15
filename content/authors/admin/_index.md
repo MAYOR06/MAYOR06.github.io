@@ -53,8 +53,8 @@ work:
     company_name: Hexcent
     company_url: ''
     company_logo: ''
-    date_start: 2023-07-01
-    date_end: 2023-07-31
+    date_start: "2023-07-01"
+    date_end: "2023-07-31"
     summary: |2-
       Responsibilities include:
       - Learned new materials, processes, and programs quickly.
