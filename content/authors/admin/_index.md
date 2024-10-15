@@ -40,7 +40,7 @@ education:
     institution: RSET
     date_start: 2021-07-01
     date_end: 2025-08-31
-     summary: |
+    summary: |
       GPA: 8.05
   - area: Higher Secondary Education
     institution: Oxford English School
